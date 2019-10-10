@@ -1,15 +1,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>lo&#39;sam的新大陆</title>
+    <title>新大陆</title>
     <link>https://tzx119wade.github.io/</link>
-    <description>Recent content on lo&#39;sam的新大陆</description>
+    <description>Recent content on 新大陆</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2019, Copyright lo&#39;sam</copyright>
-    <lastBuildDate>Mon, 01 Oct 2018 09:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2019 15:03:25 +0800</lastBuildDate>
     
         <atom:link href="https://tzx119wade.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Love</title>
+      <link>https://tzx119wade.github.io/post/my-love/</link>
+      <pubDate>Thu, 10 Oct 2019 15:03:25 +0800</pubDate>
+      
+      <guid>https://tzx119wade.github.io/post/my-love/</guid>
+      <description>
+
+&lt;h3 id=&#34;what-s-your-love&#34;&gt;what&amp;rsquo;s your love?&lt;/h3&gt;
+
+&lt;p&gt;first post test&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Introducing Indigo</title>
@@ -226,7 +240,7 @@
     </item>
     
     <item>
-      <title>ABOUT ME</title>
+      <title>ABOUT</title>
       <link>https://tzx119wade.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -238,14 +252,22 @@
     </item>
     
     <item>
-      <title>menu 1</title>
-      <link>https://tzx119wade.github.io/adding-menu-items/</link>
+      <title>NEWS</title>
+      <link>https://tzx119wade.github.io/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tzx119wade.github.io/adding-menu-items/</guid>
-      <description>&lt;p&gt;Indigo supports adding a simple navigation-style menu items across the top of the site. To do so, simply add a &lt;code&gt;menu: &amp;quot;main&amp;quot;&lt;/code&gt; entry in your page&amp;rsquo;s front matter (TOML format shown).&lt;/p&gt;
+      <guid>https://tzx119wade.github.io/news/</guid>
+      <description>
 
-&lt;p&gt;If no date is included in the front matter, then the published date won&amp;rsquo;t be shown (as in this page).&lt;/p&gt;
+&lt;p&gt;Indigo is a lightweight theme for &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; with &lt;a href=&#34;https://indieweb.org/&#34;&gt;IndieWeb&lt;/a&gt; features baked in. It&amp;rsquo;s great for longer-form blogging, placing its focus on distraction-free reading and beautiful typefaces.&lt;/p&gt;
+
+&lt;p&gt;Read more about the theme &lt;a href=&#34;https://tzx119wade.github.io/post/introducing-indigo&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.baidu.com&#34;&gt;mysite&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;重要的事&lt;/p&gt;
+
+&lt;h3 id=&#34;三级标题&#34;&gt;三级标题&lt;/h3&gt;
 </description>
     </item>
     

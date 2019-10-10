@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on lo&#39;sam的新大陆</title>
+    <title>Posts on 新大陆</title>
     <link>https://tzx119wade.github.io/post/</link>
-    <description>Recent content in Posts on lo&#39;sam的新大陆</description>
+    <description>Recent content in Posts on 新大陆</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2019, Copyright lo&#39;sam</copyright>
-    <lastBuildDate>Mon, 01 Oct 2018 09:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2019 15:03:25 +0800</lastBuildDate>
     
 	<atom:link href="https://tzx119wade.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Love</title>
+      <link>https://tzx119wade.github.io/post/my-love/</link>
+      <pubDate>Thu, 10 Oct 2019 15:03:25 +0800</pubDate>
+      
+      <guid>https://tzx119wade.github.io/post/my-love/</guid>
+      <description>what&amp;rsquo;s your love? first post test</description>
+    </item>
     
     <item>
       <title>Introducing Indigo</title>

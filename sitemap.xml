@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tzx119wade.github.io/post/my-love/</loc>
+    <lastmod>2019-10-10T15:03:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tzx119wade.github.io/post/</loc>
+    <lastmod>2019-10-10T15:03:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tzx119wade.github.io/</loc>
+    <lastmod>2019-10-10T15:03:25+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tzx119wade.github.io/categories/</loc>
     <lastmod>2018-10-01T09:00:00-04:00</lastmod>
   </url>
@@ -18,17 +33,7 @@
   </url>
   
   <url>
-    <loc>https://tzx119wade.github.io/</loc>
-    <lastmod>2018-10-01T09:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tzx119wade.github.io/categories/meta/</loc>
-    <lastmod>2018-10-01T09:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tzx119wade.github.io/post/</loc>
     <lastmod>2018-10-01T09:00:00-04:00</lastmod>
   </url>
   
@@ -62,7 +67,7 @@
   </url>
   
   <url>
-    <loc>https://tzx119wade.github.io/adding-menu-items/</loc>
+    <loc>https://tzx119wade.github.io/news/</loc>
   </url>
   
 </urlset>
