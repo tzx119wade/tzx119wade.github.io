@@ -81,6 +81,25 @@
       <p class="p-note">Do what you love and fuck the rest.</p>
     </div>
     
+
+
+    <div id="git-comments"></div>
+    <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+    <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+    <script>
+      var gitcomment = New Gitment({
+        owner:'tzx119wade',
+        repo:'blogcomment',
+        oauth:{
+          client_id : 'ed62519264c35cb00532',
+          client_secret : 'ae7e94e425aa88054ac62b9a32c7b84c3205fe85'
+        }
+      })
+      gitment.render('git-comments')
+    </script>
+
+
+
     <div id="footer">
       
       <aside id="social">
